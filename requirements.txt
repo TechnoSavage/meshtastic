@@ -1,0 +1,3 @@
+flatten_json>=0.1.13
+meshtastic>=2.2.17
+requests>=2.29.0
