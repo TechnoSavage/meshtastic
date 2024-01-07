@@ -1,5 +1,4 @@
-""" text """
-
+""" Class for configuring and sending messages over a serial connected Meshtastic device."""
 
 import meshtastic
 import meshtastic.serial_interface
